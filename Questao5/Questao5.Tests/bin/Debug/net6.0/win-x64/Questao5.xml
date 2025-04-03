@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Questao5</name>
+    </assembly>
+    <members>
+        <member name="M:Questao5.API.Controllers.BalanceController.Get(Questao5.Application.Balance.Queries.GetBalanceByIdQuery)">
+            <summary>
+            Get an account balance.
+            </summary>
+        </member>
+        <member name="M:Questao5.API.Controllers.MovementController.Create(Questao5.Application.Movement.CreateMovementCommand)">
+            <summary>
+            Create an account movement (credit or debit).
+            </summary>
+        </member>
+    </members>
+</doc>
